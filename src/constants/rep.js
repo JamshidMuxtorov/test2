@@ -1,1 +1,1 @@
-export const REP_NAME = 'Test'
+export const REP_NAME = 'test2'
